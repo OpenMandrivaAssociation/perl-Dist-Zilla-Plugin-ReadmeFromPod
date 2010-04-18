@@ -1,5 +1,5 @@
 %define upstream_name    Dist-Zilla-Plugin-ReadmeFromPod
-%define upstream_version 0.06
+%define upstream_version 0.08
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
