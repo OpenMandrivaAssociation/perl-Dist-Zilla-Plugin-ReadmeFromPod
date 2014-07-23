@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-ReadmeFromPod
-%define upstream_version 0.14
+%define upstream_version 0.21
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Automatically convert POD to a README for Dist::Zilla
 License:	GPL+ or Artistic
@@ -40,4 +40,3 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes LICENSE README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
-

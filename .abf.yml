@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-ReadmeFromPod-0.14.tar.gz: 39bfce5dda357626b1fde035a5829a85790518ba
 sources:
-  "Dist-Zilla-Plugin-ReadmeFromPod-0.14.tar.gz": 39bfce5dda357626b1fde035a5829a85790518ba
+  Dist-Zilla-Plugin-ReadmeFromPod-0.21.tar.gz: 9ed572d67c65ff456936b4f1d9ad874a78f0c0dd
